@@ -8,3 +8,10 @@ Science is not science until it is communicated, and that is the very essence of
 
 While starting a club, it's always a good idea to start with foundations of a topic that the club caters to. Quantum Computing is an interdisciplinary field that often involves concepts from Mathematics, Physics, Computer Science, Electronics and sometimes even chemistry and material sciences. 
 Qiskit offers several libraries, packages and modules to explore many of these aspects. The following is a list of resources that can get one started with Quantum programming using Qiskit :
+
+
+*Activities : games, ice breakers, online and offline activities
+* sample meeting agendas : start from the history of Qc
+* Add internships, events and openings
+
+* https://learn.qiskit.org/syllabus/7E7-8CC ( incorporate in the write-up)
