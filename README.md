@@ -24,6 +24,16 @@ Qiskit offers several libraries, packages and modules to explore many of these a
 * Qiskit Slack Channel: The Qiskit Slack workspace provides a platform for real-time discussions and interactions with the Qiskit team and the community. It's an excellent place to ask questions, seek advice, and engage with fellow quantum programmers. You can join the workspace at: https://qiskit.slack.com/
 
 
+Discussion with Astri
+1. WHo are the people ? Workplace, colleges, different categories of people. It would be different for each of them, but a broad overview too.
+2. In workplace and in college, separate these two. 
+3. Website - quantum computing clubs can be facilitated to register.- meet Fabio who had made a similar website.
+4. Support for hackathons and summer schools. 
+5. Report of sorts every three - four months.
+6. New courses, beginner courses.Wiskit events like summer schools, summer, spring, winter challenges. 
+
+Why do we need a colub ? Why is it better than self learn ( similar to having play buddies, research on if you have people around you, you get more motivated to do this regularly.
+
 
 
 
