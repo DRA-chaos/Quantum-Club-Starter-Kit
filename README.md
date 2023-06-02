@@ -35,7 +35,8 @@ Discussion with Astri
 Why do we need a colub ? Why is it better than self learn ( similar to having play buddies, research on if you have people around you, you get more motivated to do this regularly.
 
 
-
+What are some activities one can undertake to sustain and run a QUatum computing club?
+ It's always very insightful to start off with the history or etymology of something. While it is true that Quantum Computing has gained a lot of traction in the recent decade, its outset dates back to the very start of civilization!
 
 
 
