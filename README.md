@@ -59,5 +59,12 @@ What are some activities one can undertake to sustain and run a QUatum computing
 * sample meeting agendas : start from the history of Qc
 * Add internships, events and openings
 
+
+
+
+Since times immemorial, club based discussions have always ignited curiosity and fuelled promethean creativity be it in labs like Bell Laboratories or at CERN that have fuelled so many new discoveries or  during wars like the French and Bolshevik revolution or during the Charist and Suffragate movements. Clubs have helped mankind unerstand the importance of creativity as a team, divison of labour and the importance of organisational accumen.
+
+Imagine forming 
+
 * https:/
 /learn.qiskit.org/syllabus/7E7-8CC ( incorporate in the write-up)
