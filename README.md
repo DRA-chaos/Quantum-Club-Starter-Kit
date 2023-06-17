@@ -1,5 +1,5 @@
 # Quantum-Club-Starter-Kit
-
+ "Alone we can do so little; together we can do so much." - Helen Keller
 ## How to create a Quantum Computing Club ?
 
 Quantum Computing has started gaining traction very fast, particularly in this decade that has witnessed several monumental discovereies in the field of Artificial Intelligence, Health and innovation etc.
@@ -62,7 +62,7 @@ What are some activities one can undertake to sustain and run a QUatum computing
 
 
 
-Since times immemorial, club based discussions have always ignited curiosity and fuelled promethean creativity be it in labs like Bell Laboratories or at CERN that have fuelled so many new discoveries or  during wars like the French and Bolshevik revolution or during the Charist and Suffragate movements. Clubs have helped mankind unerstand the importance of creativity as a team, divison of labour and the importance of organisational accumen.
+Since times immemorial, club based discussions have always ignited curiosity and fuelled promethean creativity be it in labs like Bell Laboratories or at CERN that have fuelled so many new discoveries or  during wars like the French and Bolshevik revolution or during the Charist and Suffragate movements. Clubs have helped mankind understand the importance of creativity that often dawns , divison of labour and the importance of organisational accumen.
 
 Imagine forming 
 
