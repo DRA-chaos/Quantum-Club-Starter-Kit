@@ -75,5 +75,28 @@ However, certain physical phenomena defied explanation within the framework of c
 
 In their pursuit to unravel this perplexing phenomenon, scientists gradually arrived at the realization that classical physics was insufficient to account for the entirety of physical behavior. It was in 1901 that Max Planck achieved a breakthrough in solving the black body problem. Yet, his solution necessitated embracing a paradigm shift: he postulated that energy was quantized, existing in discrete units referred to as "quanta." This departure from classical physics proved essential in resolving the conundrum at hand. That's when the spanner was fitting in a new screw into the chamber, yes, you heard it right, that screw was directed at a different realm, the realm yet to be labelled as Quantum Physics! That's when the likes of Einstein, Bohr, Schrödinger, Heisenberg and many more, confirmed this notion of the quantum of energy, giving birth to quantum mechanics. 
 
+This can be a really good starting point to discuss in a club meeting; the history of the first quantum revolution. This is in a way analogous to reading the first few chapters of a book that give you perspectives into the fundamental principles that one would need to know to go ahead with a course. Not just would such a discussion expose you to concepts like the notion of a Wavefunction or Heisenberg's Uncertaininty Principle or even Probability theory, but this would make learning more fructuous and frolic!
+
+Here are some resources that can help one familiarize themselves with the history of the first quantum revolution!
+* https://ctovision.com/first-quantum-revolution-foundational-information-enterprise-cto/#:~:text=By%20trying%20to%20understand%20this,referred%20to%20these%20as%20quanta.
+* https://www.ciodive.com/news/the-quantum-revolution-who-what-when-where-why-and-how/508195/
+
+Additionally, you can also check out the timeline of this revolution through its ![Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_quantum_mechanics) page
+
+But, what's most important before starting any form of discussion is to know the crew of the ship! Indeed, an ice breaker session would be a lovely way to exchange a plethora of ideas ranging from perhaps what you like to eat to where you met your best friend!
+In case you're an introvert heading a club in it's first ever ice breaker session, here are a few points that can help one get started:
+* Introduction : Each one can take rounds introducing a little bit about themselves; what they like to eat, where they come from, where have they studied etc.
+* Games : Playing pictionary or hang-man or any such game would be a nice way to involve everyone on the team!
+* Food : Everyone on the team can get a few sweets or eatables and exchange/disribute it amongst themselves, wouldn't that be a very vibrant and exuberant way to sync!
+
+
+ ## Calendars and timelines
+ It's great to find a way to sync frequently. Initially it might be good to organize meet-ups more frequenty ( for ex , twice or thrice a month) until the process is streamlined. There are many apps one can checkout to schedule meetings at a time that incorporates and adjusts with everyone's schedule like [Doodle](https://doodle.com/) , [Calendly](https://calendly.com/) etc. Documenting ideas on a common canvas during a meeting is very important to track each one's progress. It could range from sharing a simple Google Doc to using several e-canvases like [Mural](https://www.mural.co/) , [Conceptboard](https://conceptboard.com/) , [Miro](https://miro.com/) to name a few. This will also help someone who misses the meeting to keep up with the discussions that might take place.
+
+ 
+
+
+
+
 * https:/
 /learn.qiskit.org/syllabus/7E7-8CC ( incorporate in the write-up)
