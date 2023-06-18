@@ -67,7 +67,13 @@ Since times immemorial, club based discussions have always ignited curiosity and
 Imagine forming a conglomeration of like minded individuals who are as enthusiastic and inquisitive about you to learn, understand and grow, wouldn't having a club be an amazing avenue to bolster your journey through the quantum tunnel!
 
 Before anything, let's dive a bit into the history and evolution of Quantum Computing. In case you're wondering that this is a very new realm, well no!
-Anyone reading this for example might be the owner of a tablet or a phone or a computer, well guess what, none of these devices would have even been fabricated had it not been for the Principles of Quantum Mechanics, oh yes not to forget 
+Anyone reading this for example might be the owner of a tablet or a phone or a computer, well guess what, none of these devices would have even been fabricated had it not been for the Principles of Quantum Mechanics, oh yes not to forget the advent of your favourite Netflix, Alexa or even VR wouldn't have been possible without Quantum Mechanics!
+
+At the onset of the 20th century, scientists possessed a confident grasp of the fundamental principles governing the natural world. Building upon the foundations of eminent scientists like Newton and Galileo, they were moving towards unraveling a comprehensive understanding of motion by studying the intricate interplay between variables such as force, mass, and acceleration. This helped them obtain a broader overview of the various forces in our universe.
+
+However, certain physical phenomena defied explanation within the framework of classical physics. One such enigma, known as the black body problem, captivated the attention of researchers towards the conclusion of the 19th century. This conundrum pertained to the description of radiation emitted by celestial bodies like stars and galaxies, which stubbornly resisted fitting into the established laws of classical physics. 
+
+In their pursuit to unravel this perplexing phenomenon, scientists gradually arrived at the realization that classical physics was insufficient to account for the entirety of physical behavior. It was in 1901 that Max Planck achieved a breakthrough in solving the black body problem. Yet, his solution necessitated embracing a paradigm shift: he postulated that energy was quantized, existing in discrete units referred to as "quanta." This departure from classical physics proved essential in resolving the conundrum at hand. That's when the spanner was fitting in a new screw into the chamber, yes, you heard it right, that screw was directed at a different realm, the realm yet to be labelled as Quantum Physics! That's when the likes of Einstein, Bohr, Schrödinger, Heisenberg and many more, confirmed this notion of the quantum of energy, giving birth to quantum mechanics. 
 
 * https:/
 /learn.qiskit.org/syllabus/7E7-8CC ( incorporate in the write-up)
