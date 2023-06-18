@@ -64,7 +64,10 @@ What are some activities one can undertake to sustain and run a QUatum computing
 
 Since times immemorial, club based discussions have always ignited curiosity and fuelled promethean creativity be it in labs like Bell Laboratories or at CERN that have fuelled so many new discoveries or  during wars like the French and Bolshevik revolution or during the Charist and Suffragate movements. Clubs have helped mankind understand the importance of creativity that often dawns , divison of labour and the importance of organisational accumen.
 
-Imagine forming 
+Imagine forming a conglomeration of like minded individuals who are as enthusiastic and inquisitive about you to learn, understand and grow, wouldn't having a club be an amazing avenue to bolster your journey through the quantum tunnel!
+
+Before anything, let's dive a bit into the history and evolution of Quantum Computing. In case you're wondering that this is a very new realm, well no!
+Anyone reading this for example might be the owner of a tablet or a phone or a computer, well guess what, none of these devices would have even been fabricated had it not been for the Principles of Quantum Mechanics, oh yes not to forget 
 
 * https:/
 /learn.qiskit.org/syllabus/7E7-8CC ( incorporate in the write-up)
