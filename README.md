@@ -24,33 +24,10 @@ Qiskit offers several libraries, packages and modules to explore many of these a
 * Qiskit Slack Channel: The Qiskit Slack workspace provides a platform for real-time discussions and interactions with the Qiskit team and the community. It's an excellent place to ask questions, seek advice, and engage with fellow quantum programmers. You can join the workspace at: https://qiskit.slack.com/
 
 
-Discussion with Astri
-1. WHo are the people ? Workplace, colleges, different categories of people. It would be different for each of them, but a broad overview too.
-2. In workplace and in college, separate these two. 
-3. Website - quantum computing clubs can be facilitated to register.- meet Fabio who had made a similar website.
-4. Support for hackathons and summer schools. 
-5. Report of sorts every three - four months.
-6. New courses, beginner courses.Wiskit events like summer schools, summer, spring, winter challenges. 
-
-Why do we need a colub ? Why is it better than self learn ( similar to having play buddies, research on if you have people around you, you get more motivated to do this regularly.
 
 
-What are some activities one can undertake to sustain and run a QUatum computing club?
+What are some activities one can undertake to sustain and run a Quantum computing club?
  It's always very insightful to start off with the history or etymology of something. While it is true that Quantum Computing has gained a lot of traction in the recent decade, its outset dates back to the very start of civilization!
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -64,7 +41,7 @@ What are some activities one can undertake to sustain and run a QUatum computing
 
 Since times immemorial, club based discussions have always ignited curiosity and fuelled promethean creativity be it in labs like Bell Laboratories or at CERN that have fuelled so many new discoveries or  during wars like the French and Bolshevik revolution or during the Charist and Suffragate movements. Clubs have helped mankind understand the importance of creativity that often dawns , divison of labour and the importance of organisational accumen.
 
-Imagine forming a conglomeration of like minded individuals who are as enthusiastic and inquisitive about you to learn, understand and grow, wouldn't having a club be an amazing avenue to bolster your journey through the quantum tunnel!
+Imagine forming a conglomeration of like minded individuals who are as enthusiastic and inquisitive as you to learn, understand and grow, wouldn't having a club be an amazing avenue to bolster your journey through the quantum tunnel!
 
 Before anything, let's dive a bit into the history and evolution of Quantum Computing. In case you're wondering that this is a very new realm, well no!
 Anyone reading this for example might be the owner of a tablet or a phone or a computer, well guess what, none of these devices would have even been fabricated had it not been for the Principles of Quantum Mechanics, oh yes not to forget the advent of your favourite Netflix, Alexa or even VR wouldn't have been possible without Quantum Mechanics!
@@ -95,7 +72,21 @@ In case you're an introvert heading a club in it's first ever ice breaker sessio
  ## Calendars and timelines
  It's great to find a way to sync frequently. Initially it might be good to organize meet-ups more frequenty ( for ex , twice or thrice a month) until the process is streamlined. There are many apps one can checkout to schedule meetings at a time that incorporates and adjusts with everyone's schedule like [Doodle](https://doodle.com/) , [Calendly](https://calendly.com/) etc. Documenting ideas on a common canvas during a meeting is very important to track each one's progress. It could range from sharing a simple Google Doc to using several e-canvases like [Mural](https://www.mural.co/) , [Conceptboard](https://conceptboard.com/) , [Miro](https://miro.com/) to name a few. This will also help someone who misses the meeting to keep up with the discussions that might take place.
 
- 
+
+
+
+
+ Other pointers ( suggested by Astri)
+Discussion with Astri
+1. WHo are the people ? Workplace, colleges, different categories of people. It would be different for each of them, but a broad overview too.
+2. In workplace and in college, separate these two. 
+3. Website - quantum computing clubs can be facilitated to register.- meet Fabio who had made a similar website.
+4. Support for hackathons and summer schools. 
+5. Report of sorts every three - four months.
+6. New courses, beginner courses.Wiskit events like summer schools, summer, spring, winter challenges. 
+
+Why do we need a club ? Why is it better than self learn ( similar to having play buddies, research on if you have people around you, you get more motivated to do this regularly.
+
 
 
 
