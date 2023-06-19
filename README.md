@@ -81,6 +81,8 @@ Here are some resources that can help one familiarize themselves with the histor
 * https://ctovision.com/first-quantum-revolution-foundational-information-enterprise-cto/#:~:text=By%20trying%20to%20understand%20this,referred%20to%20these%20as%20quanta.
 * https://www.ciodive.com/news/the-quantum-revolution-who-what-when-where-why-and-how/508195/
 
+Check out this beautifully illustrated video by Dr Dominic Walliman : [The Map of Quantum Physics](https://youtu.be/gAFAj3pzvAA)
+
 Additionally, you can also check out the timeline of this revolution through its ![Wikipedia](https://en.wikipedia.org/wiki/Timeline_of_quantum_mechanics) page
 
 But, what's most important before starting any form of discussion is to know the crew of the ship! Indeed, an ice breaker session would be a lovely way to exchange a plethora of ideas ranging from perhaps what you like to eat to where you met your best friend!
