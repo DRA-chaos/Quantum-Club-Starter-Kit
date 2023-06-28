@@ -72,6 +72,31 @@ In case you're an introvert heading a club in it's first ever ice breaker sessio
  ## Calendars and timelines
  It's great to find a way to sync frequently. Initially it might be good to organize meet-ups more frequenty ( for ex , twice or thrice a month) until the process is streamlined. There are many apps one can checkout to schedule meetings at a time that incorporates and adjusts with everyone's schedule like [Doodle](https://doodle.com/) , [Calendly](https://calendly.com/) etc. Documenting ideas on a common canvas during a meeting is very important to track each one's progress. It could range from sharing a simple Google Doc to using several e-canvases like [Mural](https://www.mural.co/) , [Conceptboard](https://conceptboard.com/) , [Miro](https://miro.com/) to name a few. This will also help someone who misses the meeting to keep up with the discussions that might take place.
 
+Here is an extensive (yet non exhaustive) list of tools you can use to streamline proceedings of any club meet or event:
+# Avenues Similar to Jamboard
+
+- [Miro](https://miro.com/): Miro is a popular online collaborative whiteboard platform that allows teams to ideate, brainstorm, and organize their thoughts visually.
+
+- [Mural](https://www.mural.co/): Mural provides a digital workspace for visual collaboration, enabling teams to collaborate in real-time on an infinite canvas.
+
+- [Microsoft Whiteboard](https://www.microsoft.com/en-us/microsoft-365/microsoft-whiteboard/digital-whiteboard-app): Microsoft Whiteboard is a digital canvas where teams can ideate, collaborate, and sketch together.
+
+- [Google Jamboard](https://jamboard.google.com/): Google Jamboard is an interactive digital whiteboard designed for collaboration.
+
+- [Stormboard](https://stormboard.com/): Stormboard offers a collaborative platform for teams to brainstorm, prioritize ideas, and work together visually.
+
+- [Conceptboard](https://conceptboard.com/): Conceptboard is an online collaboration tool that combines a virtual whiteboard, chat, and document sharing.
+
+- [Explain Everything](https://explaineverything.com/): Explain Everything is a digital whiteboard and interactive screencasting platform that enables collaboration and presentation creation.
+
+- [Limnu](https://limnu.com/): Limnu is a virtual whiteboard platform that offers a simple and intuitive interface for collaborative drawing, brainstorming, and sharing ideas.
+
+- [AWW App](https://awwapp.com/): AWW App is an online whiteboard platform that enables real-time collaboration.
+
+- [ConceptShare](https://www.conceptshare.com/): ConceptShare is a visual collaboration platform designed for creative teams.
+
+These platforms offer various collaboration features, so you can explore and choose the one that best suits your team's needs and preferences.
+
 
 
 
@@ -86,6 +111,8 @@ Discussion with Astri
 6. New courses, beginner courses.Wiskit events like summer schools, summer, spring, winter challenges. 
 
 Why do we need a club ? Why is it better than self learn ( similar to having play buddies, research on if you have people around you, you get more motivated to do this regularly.
+
+
 
 
 
