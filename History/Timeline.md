@@ -22,12 +22,14 @@ Here are some resources that can help one familiarize themselves with the histor
 
 6. Online Course: ["Quantum Mechanics for Everyone" on edX](https://www.edx.org/professional-certificate/georgetownx-quantum-mechanics-for-everyone)
    - This introductory course, offered by Georgetown University on the edX platform, covers the history and principles of quantum mechanics. It provides an accessible overview of the subject and its historical evolution.
-
+[mention which lectures to go through ]
 7. Article: ["The History of Quantum Mechanics" on PhysicsWorld](https://physicsworld.com/a/the-history-of-quantum-mechanics/)
    - PhysicsWorld features an article that provides a concise overview of the history of quantum mechanics. It covers key milestones, major contributors, and the development of quantum theory.
 
 8. Podcast: ["The Titanium Physicists Podcast"](http://titaniumphysicists.brachiolopemedia.com/)
    - The Titanium Physicists Podcast covers a wide range of physics topics, including episodes dedicated to quantum mechanics. It features interviews with experts who discuss the historical context and development of quantum theory.
+  
+[different qiskit series on yt, courses tb course etc ]
 
 These resources offer valuable insights into the history of quantum mechanics and the first quantum revolution. They provide a foundation for understanding the evolution of quantum theory and the contributions of key figures in the field.
 
