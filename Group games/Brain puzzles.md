@@ -1,6 +1,6 @@
 # Puzzles and Brain Games for Fun Ice Breaker Sessions
 
-Here's a list of puzzles and brain games that can be used as a fun ice breaker session:
+Here's a list of puzzles and brain games that need you to don your thinking hat can be used as a fun way to bond in a group:
 
 1. **Riddles**: Check out websites like [Riddles.com](https://www.riddles.com/) or [Riddles.fyi](https://riddles.fyi/) for a collection of riddles suitable for ice breaker activities.
 
