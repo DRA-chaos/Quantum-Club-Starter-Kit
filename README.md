@@ -1,6 +1,6 @@
 # Quantum-Club-Starter-Kit
  "Alone we can do so little; together we can do so much." - Helen Keller
-
+* Quantum kittens, [quantum catalogue](quantumcatalogue.com), Quantum explorers.
  Mind map/ visual map
 ## How to create a Quantum Computing Club ?
 
