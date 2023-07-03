@@ -17,3 +17,8 @@ You must be wondering, why do we have an exclusive repository centered around th
 These resources provide insights into the benefits of group-based learning, including improved engagement, critical thinking, problem-solving skills, and personal development. Click on the links to access the full articles and papers for a more detailed understanding of the research findings.
 
 In case you already have a Quantum club and aren't making much progress, don't worry, everything requires time and patience, you will get there soon and have your own events too!
+
+
+RPSE suggestions :
+
+section under articles or papers of group based learning ( under game based learning )
