@@ -1,5 +1,7 @@
 # Quantum-Club-Starter-Kit
  "Alone we can do so little; together we can do so much." - Helen Keller
+
+ Mind map/ visual map
 ## How to create a Quantum Computing Club ?
 
 Quantum Computing has started gaining traction very fast, particularly in this decade that has witnessed several monumental discovereies in the field of Artificial Intelligence, Health and innovation etc.
