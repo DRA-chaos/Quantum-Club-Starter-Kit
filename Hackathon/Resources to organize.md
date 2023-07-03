@@ -17,3 +17,6 @@ Here are some resources that can help you host or organize a small or regional h
 6. [Hackathon Planning Canvas](https://hackathoncanvas.com/) by Hackathon Canvas: This canvas provides a visual template for organizing a hackathon, allowing you to capture and plan various aspects such as objectives, target audience, resources, and logistics.
 
 The above resources can provide one with valuable guidance and practical advice on hosting a small or regional hackathons. Each link contains detailed information to help plan and and map the efforts required to host an event.
+
+
+Add Junye's hackathon guide
