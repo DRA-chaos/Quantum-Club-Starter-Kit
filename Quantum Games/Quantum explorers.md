@@ -1,6 +1,8 @@
 [Quantum Explorers](http://qisk.it/quantum-explorers) is a self-paced educational program conducted as a Qiskit community event that uses gamification to drive learning paths. The two pillars of the program are self-paced learning and community, wrapped up in a narrative theme of space exploration.
 Read more about Gamified learning and its benefits in this [blog](https://medium.com/qiskit/quantum-explorers-a-game-based-approach-to-quantum-education-9b84d0a0ba46) by Dr Radha Pyari Sandhir, the India Community Lead at IBM Quantum!
 
+In addition to the above blog, you can also check out [Quantum Kittens](https://quantum-kittens.github.io/) themed on learninig Quantum Computing through stories about cats run by Dr Radha as well! Dr Radha's team believes in the ingenious concept of gamified learning and is very alacritous in delivering it to the masses. If you wanna check out some scientific literature and studies about the impacts of gamified learning , you can check out the section below.
+
 # Articles and Papers on the Effects of Gamified Learning
 
 Here are some articles and papers that discuss the effects of gamified learning:
