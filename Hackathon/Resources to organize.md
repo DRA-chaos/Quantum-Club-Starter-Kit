@@ -19,4 +19,4 @@ Here are some resources that can help you host or organize a small or regional h
 The above resources can provide one with valuable guidance and practical advice on hosting a small or regional hackathons. Each link contains detailed information to help plan and and map the efforts required to host an event.
 
 
-Add Junye's hackathon guide
+If you want a step by step guide that covers the nitty gritties of organizing, marketing and execution, do check out the [Hackathon guide](https://github.com/HuangJunye/Qiskit-Hackathon-Guide) written by Junye Huang of IBM Quantum!
