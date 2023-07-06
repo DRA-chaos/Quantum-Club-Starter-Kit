@@ -1,29 +1,26 @@
-# Hackathons and Ideathons Related to Quantum Computing
+Organizing your first hackathon ? It need not be a grand one, starting off with a regional or local event might help bolster the momentum of the club.
 
-Below is a list of hackathons and ideathons focused on quantum computing. In itself, it might be an amazing avenue to network with your own team if you participate together:
+# Resources for Hosting or Organizing a Small or Regional Hackathon
 
-1. [IBM Quantum Challenge](https://quantum-computing.ibm.com/challenges)
-   - IBM Quantum Challenge is an annual online hackathon organized by IBM Quantum. Participants get the opportunity to solve quantum computing problems, work with real quantum systems, and compete for prizes.
+Here are some resources that can help you host or organize a small or regional hackathon:
 
-2. [Qiskit Global Summer School](https://qiskit.org/events/summer-school/)
-   - The Qiskit Global Summer School is an annual event organized by the Qiskit community. It features a combination of lectures, hands-on exercises, and a hackathon focused on quantum computing and Qiskit, an open-source quantum computing framework.
+1. [Hackathon Starter Kit](https://github.com/MLH/hackathon-starter-kit) by MLH (Major League Hacking): This comprehensive guide provides step-by-step instructions on organizing a hackathon, including planning, logistics, sponsorship, and judging.
 
-3. [Quantum Open Source Foundation (QOSF) Mentorship](https://qosf.org/qc_mentorship/)
-   - QOSF offers a mentorship program that allows participants to work on open-source quantum software projects. This program provides an opportunity to collaborate with experts and contribute to the quantum computing community.
+2. [How to Organize a Hackathon: A Step-by-Step Guide](https://hackathons.international/guides/how-to-organize-a-hackathon) by Hackathons International: This article offers a detailed roadmap for planning and executing a successful hackathon, covering aspects such as team formation, venue selection, mentorship, and post-event follow-up.
 
-4. [Microsoft Quantum Challenge](https://azure.microsoft.com/en-us/services/quantum/quantum-challenge/)
-   - Microsoft Quantum Challenge is an online event that offers participants a chance to explore quantum algorithms, solve problems using Microsoft Quantum Development Kit, and compete for prizes.
+3. [Hackathon Organizer Handbook](https://go.devpost.com/hackathon-organizer-handbook/) by Devpost: This handbook provides valuable insights and practical tips for hackathon organizers, including guidance on budgeting, marketing, event timeline, and ensuring a positive experience for participants.
 
-5. [Unitary Fund Hackathons](https://unitary.fund/)
-   - The Unitary Fund organizes hackathons that focus on quantum computing and quantum technologies. These events bring together developers, researchers, and enthusiasts to collaborate on quantum software projects.
+4. [Hackathon Checklist](https://hackathons.international/resources/hackathon-checklist) by Hackathons International: This checklist outlines the key tasks and considerations for organizing a hackathon, ensuring that you cover all the necessary elements from pre-event planning to post-event activities.
 
-6. [Quantum Inspire Hackathon](https://www.quantum-inspire.com/community/hackathon/)
-   - Quantum Inspire Hackathon is an annual event organized by QuTech, a research institute for quantum computing and quantum internet. Participants work on real quantum hardware and software challenges using the Quantum Inspire platform.
+5. [The Hackathon Organizer's Guide](https://hackathon.com/guide) by Hackathon.com: This guide offers a comprehensive overview of hackathon organization, covering topics such as team formation, sponsorship, venue selection, mentorship, and judging criteria.
 
-7. [Quantum Machine Learning Hackathon](https://qmlhackathon.com/)
-   - Quantum Machine Learning Hackathon is a competitive event that combines quantum computing and machine learning. Participants explore quantum algorithms for machine learning tasks and develop innovative solutions.
+6. [Hackathon Planning Canvas](https://hackathoncanvas.com/) by Hackathon Canvas: This canvas provides a visual template for organizing a hackathon, allowing you to capture and plan various aspects such as objectives, target audience, resources, and logistics.
+
+The above resources can provide one with valuable guidance and practical advice on hosting a small or regional hackathons. Each link contains detailed information to help plan and and map the efforts required to host an event.
 
 
-Apart from these, one can also check for local quantum computing meetups and organizations in your area. They often host hackathons and ideathons focused on quantum computing where participants can collaborate and showcase their skills.
-Please note that the availability and schedule of these events may vary. It's recommended to visit the respective websites or follow their social media channels for up-to-date information on upcoming hackathons and ideathons.
-Remember to review the eligibility criteria, requirements, and guidelines provided by each event before participating !
+If you want a step by step guide that covers the nitty gritties of organizing, marketing and execution, do check out the [Hackathon guide](https://github.com/HuangJunye/Qiskit-Hackathon-Guide) written by Junye Huang of IBM Quantum!
+
+
+
+
