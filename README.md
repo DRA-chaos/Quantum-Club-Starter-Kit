@@ -2,6 +2,12 @@
  "Alone we can do so little; together we can do so much." - Helen Keller
 * Quantum kittens, [quantum catalog](quantumcatalog.com), Quantum explorers.
  Mind map/ visual map
+
+
+
+
+![IBM Q flowchart](https://github.com/DRA-chaos/Quantum-Club-Starter-Kit/assets/68393451/0ec5fba0-1887-4612-b886-3030f9acf886)
+
 ## How to create a Quantum Computing Club ?
 
 Quantum Computing has started gaining traction very fast, particularly in this decade that has witnessed several monumental discovereies in the field of Artificial Intelligence, Health and innovation etc.
