@@ -33,12 +33,6 @@ If you're looking for recommendations for potluck recipes suitable for students,
 
 # Places to Find Recommendations for Potluck Recipes for Students
 
-
-
-# Places to Find Recommendations for Potluck Recipes for Students
-
-If you're looking for recommendations for potluck recipes suitable for students, here are some places where you can find inspiration:
-
 1. **Pinterest**: A popular visual discovery platform where you can search for [potluck recipe ideas](https://www.pinterest.com/search/pins/?q=potluck%20recipes). Create a board dedicated to potluck recipes and save pins that catch your eye. Browse categories like "easy potluck recipes" or "student-friendly potluck dishes" for specific recommendations.
 
 2. **Tasty**: Tasty offers a variety of quick and easy recipes suitable for students. Explore their website and [YouTube channel](https://www.youtube.com/user/buzzfeedtasty) featuring recipe videos and step-by-step instructions. Explore their [Potluck section](https://tasty.co/topic/potluck) for crowd-pleasing dishes that are perfect for sharing.
