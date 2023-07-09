@@ -22,7 +22,8 @@ To contribute to the Quantum Club Starter Kit, please follow these guidelines:
 1. **Fork the Repository**: Start by forking this repository to your GitHub account. This will create a copy of the repository under your account that you can freely modify.
 
 2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
-git clone [https://github.com/DRA-chaos/Quantum-Club-Starter-Kit.git](https://github.com/DRA-chaos/Quantum-Club-Starter-Kit.git)
+
+ git clone [https://github.com/DRA-chaos/Quantum-Club-Starter-Kit.git](https://github.com/DRA-chaos/Quantum-Club-Starter-Kit.git)
 
 
 3. **Create a Branch**: Create a new branch for your contribution. Use a descriptive name that reflects the nature of your changes or additions.
@@ -31,25 +32,26 @@ git clone [https://github.com/DRA-chaos/Quantum-Club-Starter-Kit.git](https://gi
 
 
 
-5. **Make Changes**: Make your desired changes, additions, or improvements to the Quantum Club Starter Kit. Ensure that your changes align with the purpose and goals of the project.
+4. **Make Changes**: Make your desired changes, additions, or improvements to the Quantum Club Starter Kit. Ensure that your changes align with the purpose and goals of the project.
 
-6. **Commit Changes**: Once you've made your changes, commit them with a clear and concise commit message that describes what you've done.
+
+5. **Commit Changes**: Once you've made your changes, commit them with a clear and concise commit message that describes what you've done.
    
  git commit -m "Add feature XYZ" or "Fix bug ABC"
 
 
 
-8. **Push Changes**: Push your committed changes to your forked repository on GitHub.
+6. **Push Changes**: Push your committed changes to your forked repository on GitHub.
    
  git push origin your-branch-name
 
 
 
-10. **Open a Pull Request**: Go to the original Quantum Club Starter Kit repository on GitHub and open a Pull Request (PR) to submit your changes. Provide a detailed description of your contributions and any relevant information.
+7. **Open a Pull Request**: Go to the original Quantum Club Starter Kit repository on GitHub and open a Pull Request (PR) to submit your changes. Provide a detailed description of your contributions and any relevant information.
 
-11. **Collaborate and Discuss**: Engage in any discussions or feedback related to your Pull Request. Be open to suggestions and iterate on your work if needed.
+8. **Collaborate and Discuss**: Engage in any discussions or feedback related to your Pull Request. Be open to suggestions and iterate on your work if needed.
 
-12. **Review and Merge**: The project maintainers will review your Pull Request. If approved, your changes will be merged into the main branch of the Quantum Club Starter Kit.
+9. **Review and Merge**: The project maintainers will review your Pull Request. If approved, your changes will be merged into the main branch of the Quantum Club Starter Kit.
 
 
 
