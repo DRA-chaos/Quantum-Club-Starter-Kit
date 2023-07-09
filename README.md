@@ -103,3 +103,52 @@ Why do we need a club ? Why is it better than self learn ( similar to having pla
 
 * https:/
 /learn.qiskit.org/syllabus/7E7-8CC ( incorporate in the write-up)
+
+
+# Quantum Club Starter Kit
+
+Welcome to the Quantum Club Starter Kit repository! We're thrilled that you're interested in contributing to this project. Whether you have ideas, suggestions, or code improvements, we appreciate your efforts in making this starter kit even better.
+
+## Contribution Guidelines
+
+To contribute to the Quantum Club Starter Kit, please follow these guidelines:
+
+1. **Fork the Repository**: Start by forking this repository to your GitHub account. This will create a copy of the repository under your account that you can freely modify.
+
+2. **Clone the Repository**: Clone the forked repository to your local machine using the following command:
+git clone https://github.com/your-username/quantum-club-starter-kit.git
+
+
+3. **Create a Branch**: Create a new branch for your contribution. Use a descriptive name that reflects the nature of your changes or additions.
+git checkout -b your-branch-name
+
+
+
+4. **Make Changes**: Make your desired changes, additions, or improvements to the Quantum Club Starter Kit. Ensure that your changes align with the purpose and goals of the project.
+
+5. **Commit Changes**: Once you've made your changes, commit them with a clear and concise commit message that describes what you've done.
+git commit -m "Add feature XYZ" or "Fix bug ABC"
+
+
+
+6. **Push Changes**: Push your committed changes to your forked repository on GitHub.
+git push origin your-branch-name
+
+
+
+7. **Open a Pull Request**: Go to the original Quantum Club Starter Kit repository on GitHub and open a Pull Request (PR) to submit your changes. Provide a detailed description of your contributions and any relevant information.
+
+8. **Collaborate and Discuss**: Engage in any discussions or feedback related to your Pull Request. Be open to suggestions and iterate on your work if needed.
+
+9. **Review and Merge**: The project maintainers will review your Pull Request. If approved, your changes will be merged into the main branch of the Quantum Club Starter Kit.
+
+## Code of Conduct
+
+Please note that we have a [Code of Conduct](CODE_OF_CONDUCT.md) in place to ensure a positive and inclusive community. We expect all contributors to adhere to this code and maintain a respectful environment for everyone.
+
+We appreciate all contributions and look forward to building an amazing Quantum Club Starter Kit together!
+
+If you have any questions or need assistance, feel free to reach out to us.
+
+Happy contributing!
+
