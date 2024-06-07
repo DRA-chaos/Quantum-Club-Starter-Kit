@@ -1,8 +1,10 @@
 # Quantum-Club-Starter-Kit
  "Alone we can do so little; together we can do so much." - Helen Keller
 * Quantum kittens, [quantum catalog](quantumcatalog.com), Quantum explorers.
- Mind map/ visual map
+ Mind map/ visual map.
 
+This is a neophyte effort aimed at bringing together resources that could come in handy while setting up a Quantum computing club at university or college. The idea is to form a community of enthusiastic individuals who want to learn more about Quantum mechanics applied in computing to solve various domain level challenges or even take part in niche hackathons conducted by various organizations like IBM, Xanadu or MIT to name a few.
+This repository was developed as a part of my science communication endeavour while at IBM Research India as an intern and was intended to be in cadence with a medium blog which I still plan on writing in the future! 
 
 
 
