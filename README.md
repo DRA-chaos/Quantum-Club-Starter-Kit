@@ -1,7 +1,6 @@
 # Quantum-Club-Starter-Kit
  "Alone we can do so little; together we can do so much." - Helen Keller
-* Quantum kittens, [quantum catalog](quantumcatalog.com), Quantum explorers.
- Mind map/ visual map.
+
 
 This is a neophyte effort aimed at bringing together resources that could come in handy while setting up a Quantum computing club at university or college. The idea is to form a community of enthusiastic individuals who want to learn more about Quantum mechanics applied in computing to solve various domain level challenges or even take part in niche hackathons conducted by various organizations like IBM, Xanadu or MIT to name a few.
 This repository was developed as a part of my science communication endeavour while at IBM Research India as an intern and was intended to be in cadence with a medium blog which I still plan on writing in the future! 
@@ -12,7 +11,7 @@ The mind map below encompasses the various underpinnings that a Quantum Clubb co
 ![IBM Q flowchart](https://github.com/DRA-chaos/Quantum-Club-Starter-Kit/assets/68393451/0ec5fba0-1887-4612-b886-3030f9acf886)
 
 
-
+* Before starting, you might like to take a look at [quantum catalog](quantumcatalog.com) compiled by Dr. Radha Sandhir which is an amazing way to get started too!
 
 # Quantum Club Starter Kit
 
